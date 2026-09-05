@@ -1,0 +1,24 @@
+Interactive Posts
+
+as a casual user, I want interactive posts to show me a result or product
+
+	1) easy to understand UI for me to click on
+	2) reachable goals without adding extra effort
+
+as a game developer, interactive posts allow me to create mini games within the post for user to engage with
+	
+	1) customization ability to show my vision to other users
+	2)  each post should show me the amount of users who interacted with it
+
+as a data researcher, Interactive posts will allow me to collect data with the public due to instagrams wide spread
+	1) listing of options for me to create mini surverys for users
+	2) collecting the data from each post to then user research
+
+as a child, interactive posts would be a fun way for me to learn information while using social media
+	1) ability to easily interact with these posts and use them for educational purposes
+	2) to gain a reward from interacting with the post 
+
+as a customer, interactive posts would allow me to see the options available from a seller without calling
+
+	1) the ability to see what options are abilable for me to choose from in a product or from a seller
+	2) the ability to customize said product to my liking with said options
